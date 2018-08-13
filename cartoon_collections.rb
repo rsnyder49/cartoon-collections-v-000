@@ -26,4 +26,5 @@ def find_the_cheese(str_arr)
       return str
     end
   end
+  return nil
 end
