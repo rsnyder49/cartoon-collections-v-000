@@ -24,5 +24,6 @@ def find_the_cheese(str_arr)
   str_arr.each do |str| 
     if cheese_types.include?(str)
       return str
+    end
   end
 end
